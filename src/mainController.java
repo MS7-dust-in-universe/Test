@@ -34,5 +34,6 @@ public class mainController{
 
         // Add the AnchorPaneGUI to the VBox
         alerts.getChildren().add(second);
+        System.out.println("Changed");
     }
 }
